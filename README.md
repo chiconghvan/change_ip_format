@@ -10,7 +10,7 @@
   Dữ liệu nhập vào file input.txt, mỗi chuỗi proxy được nhập trên một dòng riêng
   biệt
 </p>
-<h2>Cách chạy ứng dụng<h2>
+<h2>Cách chạy ứng dụng</h2>
 <p>
   Mở command prompt hoặc terminal tại thư mục khi tải về. Chạy lệnh "node change.js"
 </p>
